@@ -172,3 +172,4 @@ Email: your-email@example.com
 ⭐ If you find Student Pro useful, consider giving the repository a star!
 
 Made with ❤️ for students.
+
